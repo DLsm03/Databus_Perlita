@@ -198,7 +198,7 @@ namespace Interfaces
             // ptcbxInicio
             // 
             this.ptcbxInicio.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ptcbxInicio.Image = global::Interfaces.Properties.Resources.wd_removebg_preview__1_;
+           // this.ptcbxInicio.Image = global::Interfaces.Properties.Resources.wd_removebg_preview__1_;
             this.ptcbxInicio.Location = new System.Drawing.Point(0, 0);
             this.ptcbxInicio.Name = "ptcbxInicio";
             this.ptcbxInicio.Size = new System.Drawing.Size(291, 165);
