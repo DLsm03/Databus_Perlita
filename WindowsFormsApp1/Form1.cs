@@ -19,11 +19,7 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-<<<<<<< HEAD
 
-=======
-            
->>>>>>> afdab541eca759289cfeb50ca250e44cc1b7e0b7
         }
     }
 }
