@@ -10,3 +10,4 @@ C:\Users\MarianoCaro\OneDrive\Escritorio\Perlita\WindowsFormsApp1\obj\Debug\Inte
 C:\Users\MarianoCaro\OneDrive\Escritorio\Perlita\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
 C:\Users\MarianoCaro\OneDrive\Escritorio\Perlita\WindowsFormsApp1\obj\Debug\Interfaces.csproj.GenerateResource.cache
 C:\Users\MarianoCaro\OneDrive\Escritorio\Perlita\WindowsFormsApp1\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\MarianoCaro\OneDrive\Escritorio\Perlita\WindowsFormsApp1\obj\Debug\Interfaces.Frm_Administradores.resources
