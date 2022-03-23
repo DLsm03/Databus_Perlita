@@ -1,0 +1,6 @@
+C:\Users\Diana\Source\Repos\Databus_Perlita\WindowsFormsApp1\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Diana\Source\Repos\Databus_Perlita\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Diana\Source\Repos\Databus_Perlita\WindowsFormsApp1\obj\Debug\Interfaces.frmUsuarios.resources
+C:\Users\Diana\Source\Repos\Databus_Perlita\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Diana\Source\Repos\Databus_Perlita\WindowsFormsApp1\obj\Debug\Interfaces.csproj.GenerateResource.cache
+C:\Users\Diana\Source\Repos\Databus_Perlita\WindowsFormsApp1\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
